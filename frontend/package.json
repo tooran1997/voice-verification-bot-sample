@@ -12,7 +12,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.9",
+    "@rollup/plugin-node-resolve": "^16.0.3",
     "@vitejs/plugin-react": "^5.1.0",
+    "rollup": "^4.52.5",
     "vite": "^5.4.21"
   }
 }
